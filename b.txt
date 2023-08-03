@@ -1,1 +1,2 @@
-this is b file
+this is b file, 1st line
+this is 2nd line
